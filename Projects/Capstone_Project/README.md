@@ -5,9 +5,9 @@
 
 ## Problem Statement
 
-Gun violence is a reality of life for many in the United States. According to data from the [Pew Research Center](https://www.pewresearch.org/fact-tank/2019/10/22/facts-about-guns-in-united-states/), U.S. gun deaths have increased in recent years and 44% of Americans say that they know someone who has been shot.
+Gun violence is a reality of life for many in the United States. According to data from the [Pew Research Center](https://www.pewresearch.org/fact-tank/2019/10/22/facts-about-guns-in-united-states/), U.S. gun deaths have increased in recent years and 44% of Americans say that they know someone who has been shot. The debate over gun violence protection has been an ongoing one over the years and with 100 people in America dying of gun violence each day, the equivalent of multiple mass shootings, seven days a week, it is viewed as a [public health crisis and an epidemic](https://www.usatoday.com/story/opinion/2019/09/10/gun-violence-public-health-crisis-requires-action-doctor-column/2268282001/).
 
-As such, this project aims to examine gun violence trends in the United States and identify the key factors in driving gun violence casualties?
+As such, this project aims to examine gun violence trends in the United States and identify the key factors in driving gun violence casualties.
 
 Due to the length of the project, I've split the Jupyter notebooks into 4 parts:
 1. Data Cleaning & EDA (I)
