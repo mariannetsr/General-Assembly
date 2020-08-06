@@ -95,6 +95,7 @@ For the purposes of this project, I'll be exploring 4 classification methods to 
 - K-Nearest Neighbours Classifier
 - Random Forest Classifier
 - XGBoost Classifier
+
 **GridSearchCV** will be used to perform hyperparameter tuning in order to determine the optimal values for a given model.
 
 ---
