@@ -19,7 +19,7 @@ Due to the length of the project, I've split the Jupyter notebooks into 4 parts:
 
 ## Datasets
 
-- [Gun Violence Archive](https://www.gunviolencearchive.org/): Gun violence incidents from January 2014 to March 2018. This dataset was downloaded from [Kaggle](https://www.kaggle.com/jameslko/gun-violence-data) but it was originally scraped from the Gun Violence Archive.
+- [Gun Violence Archive](https://www.gunviolencearchive.org/): Gun violence incidents from January 2014 to March 2018. This dataset was downloaded from [Kaggle](https://www.kaggle.com/jameslko/gun-violence-data) but it was originally scraped from the Gun Violence Archive. *Note: this dataset is too large to be uploaded to Github so it's missing in the data folder.*
 - [US Census Bureau](https://www.census.gov/): US State popluation from 2010-2019.
 - [Gun Control Provisions](https://www.kaggle.com/jboysen/state-firearms): Data covers gun provisions in all 50 US states from 1991-2017. 0/1 (absence/presence) is encoded on 133 provisions across 50 states, by state and by year. For simplicity, I used `lawtotal` i.e. total number of provisions by state and by year for this project.
 - [270 to Win](https://www.270towin.com/states/): Election results from 2000 to 2016 for each state. This dataset lists the percentage of votes the democrats and republicans received in each state. 
@@ -101,7 +101,7 @@ For the purposes of this project, I'll be exploring 4 classification methods to 
 
 ### Best Model
 
-<img src='./images/best_model.png'>
+<img src='./assets/best_model.png'>
 
 All 4 models did better than than the baseline model where baseline accuracy is 0.6 and baseline AUC is 0.5. Comparing the models, Random Forest performed the best with the highest accuracy score and ROC score. Recall is also slight higher than XGBoost.
 
@@ -109,7 +109,7 @@ All 4 models did better than than the baseline model where baseline accuracy is 
 
 ### Top Features
 
-<img src='./images/top_features.png'>
+<img src='./assets/top_features.png'>
 
 ---
 
